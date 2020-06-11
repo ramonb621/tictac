@@ -24,7 +24,7 @@ def player_input():
     '''
 
     while marker != "X" or marker != "O":
-        marker = input("Player 1: Select 'X' or 'O' as your marker to begin game.").upper()
+        marker = input("Player 1: Select 'X' or 'O' as your marker to begin game. ").upper()
 
         if marker == "X":
             return ("X", "O")
