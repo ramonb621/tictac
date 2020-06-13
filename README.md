@@ -8,7 +8,7 @@ CLI tic tac toe game that takes in 'X' or 'O' values until somebody wins, loses,
 * First player to move is picked at random
 * The game can end in a win, loss, or a draw.
 
-![Begin Game](/assets/start.png = 450x350)
+<img src="/assets/start.png" width="450" height="350">
 
 ![Active Game](/assets/middle.png)
 
