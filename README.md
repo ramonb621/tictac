@@ -8,11 +8,11 @@ CLI tic tac toe game that takes in 'X' or 'O' values until somebody wins, loses,
 * First player to move is picked at random
 * The game can end in a win, loss, or a draw.
 
-<img src="/assets/start.png" width="450" height="350">
+<img src="/assets/start.png" width="620" height="350">
 
-![Active Game](/assets/middle.png)
+<img src="/assets/middle.png" width="620" height="350">
 
-![End Game](/assets/end.png)
+<img src="/assets/end.png" width="620" height="350">
 
 ## Application Developed with:
 Python 3
